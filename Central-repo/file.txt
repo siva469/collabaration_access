@@ -1,0 +1,2 @@
+its sample file to create the file using cat cmd
+this is cmd using "cat >> filename" to add the content in that file
